@@ -17,7 +17,7 @@
 
 [<img align="left" alt="fation-shehaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="@toni.ssh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="fationsh.github.io | Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/globe.svg" />][webpage]
+[<img align="left" alt="fationsh.github.io | Webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][webpage]
 
 [linkedin]: https://linkedin.com/in/fation-shehaj
 [instagram]: https://www.instagram.com/toni.ssh/

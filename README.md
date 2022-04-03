@@ -1,6 +1,6 @@
 # Hi 👋
 
-#### I'm Fatjon, a software engineer from Greece. If you want to learn more about me feel free to visit my personal website [<img align="left" alt="fationsh.github.io | Webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][webpage]
+#### I'm Fation, a software engineer from Greece. If you want to learn more about me feel free to visit my personal website... [<img align="center" alt="fationsh.github.io | Webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][webpage]
 
 #### Connect with me
 
@@ -10,6 +10,8 @@
 [linkedin]: https://linkedin.com/in/fation-shehaj
 [instagram]: https://www.instagram.com/toni.ssh/
 [webpage]: https://fationsh.github.io/myPort/
+
+<br><br>
 
 <a href="https://github.com/FationSH">
     <p align="center">
